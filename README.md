@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hey <img src="Hi.gif" width="40px" />, I'm Giuliano</h1>
 <h3 align="center">I'm a student and an aspiring Data Scientist and Web Developer </h3>
 
