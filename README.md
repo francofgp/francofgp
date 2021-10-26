@@ -2,8 +2,27 @@
 <h1 align="center">Hey <img src="Hi.gif" width="40px" />, I'm Giuliano</h1>
 <h3 align="center">I'm a student and an aspiring Data Scientist and Web Developer </h3>
 
-- 🔭 My current projects include [Cyrillic Classifier](https://github.com/francofgp/Machine-Learning-Cyrillic-Classifier), [ToDo](https://github.com/francofgp/Todo-App-Web-Django), [Tic-Tac-Toe AI](https://github.com/francofgp/Tic-Tac-Toe-Gym) and [.NET RPG API](https://github.com/francofgp/DotNet-RPG-API).
+- 🔭 My current projects include:
+  - 🧪 Data Science/Machine Learning:
+    -  [Cyrillic Classifier](https://github.com/francofgp/Machine-Learning-Cyrillic-Classifier)
+    -  [Tic-Tac-Toe AI](https://github.com/francofgp/Tic-Tac-Toe-Gym)
+    -  [Hyperparameter tunning and CIFAR-10](https://github.com/francofgp/Hyperparameter-Tuning-and-CIFAR-10/blob/main/Part1.ipynb) 
+    -  [Dashboard Covid-19 Argentina](https://github.com/francofgp/streamlit-Casos-Covid-19-Argentina)
 
+    
+  - 🌐 Web Development:
+     - [ToDo with Django](https://github.com/francofgp/Todo-App-Web-Django)
+     - [Blog with Django](https://github.com/francofgp/Blog-Django)
+     - [Book Store with Django](https://github.com/francofgp/Book-Store-Django-Docker)
+     - [.NET RPG API](https://github.com/francofgp/DotNet-RPG-API)
+     
+     
+      
+  - 💻 Desktop:
+     - [Shutty](https://github.com/francofgp/shutty-a-shutdown-timer) 
+     
+  - 👓 Console:
+     - [Fizz-Buzz Generator](https://github.com/francofgp/Fizz-Buzz-Generator)
 <!--  SQL 
 - 🌱 Check out my [website](https://harsh-2420.github.io/) to learn more about me and my experience.
 
@@ -61,12 +80,6 @@ I am experienced in:
 <!-- Python -->
 <img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />        
 
-<!-- React -->
-<img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-<!-- Java -->
-<img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />      
-
 <!-- C#-->
 <img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
@@ -76,8 +89,13 @@ I am experienced in:
 <!-- PyTorch -->
 <img align="left" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />    
 
+<!-- scikit-learn -->
+<img align="left" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />    
+
 <!-- Django -->
 <img align="left" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />       
 
+<!-- React -->
+<img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  
 
 ...and much more!
