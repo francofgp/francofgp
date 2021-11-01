@@ -8,6 +8,7 @@
     -  [Tic-Tac-Toe AI](https://github.com/francofgp/Tic-Tac-Toe-Gym)
     -  [Hyperparameter tunning and CIFAR-10](https://github.com/francofgp/Hyperparameter-Tuning-and-CIFAR-10/blob/main/Part1.ipynb) 
     -  [Dashboard Covid-19 Argentina](https://github.com/francofgp/streamlit-Casos-Covid-19-Argentina)
+    -  [Breast Cancer Dataset Analysis](https://github.com/francofgp/Breast-Cancer-Dataset-Analysis)
 
     
   - 🌐 Web Development:
