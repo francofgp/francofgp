@@ -65,10 +65,10 @@ I am experienced in:
 
 <hr />
 <div align="center">
-  <img align="center" src="https://github-readme-stats-kappa-sandy.vercel.app/api?username=francofgp&show_icons=true&theme=radical&hide_border=true">
+  <img align="center" src="https://github-readme-stats-kappa-sandy.vercel.app/api?username=francofgp&show_icons=true&theme=onedark&hide_border=true">
   <br/>
     <br />
-  <img align="center" src="https://github-readme-stats-kappa-sandy.vercel.app/api/top-langs?username=francofgp&layout=compact&show_icons=true&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-kappa-sandy.vercel.app/api/top-langs?username=francofgp&layout=compact&show_icons=true&theme=onedark&hide_border=true" />
 </div>
   
   
