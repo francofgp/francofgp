@@ -99,7 +99,11 @@ I am experienced in:
 <img align="left" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />       
 
 <!-- React -->
-<img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  
+<img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<!-- .Net -->
+<img align="left" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+
 
 <br>
 <br>
