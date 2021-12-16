@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey <img src="Hi.gif" width="40px" />, I'm Giuliano</h1>
-<h3 align="center">I'm a student and an aspiring Data Scientist and Web Developer </h3>
+<h3 align="center">I'm an information system engineer and an aspiring Data Scientist and Web Developer </h3>
 
 - 🔭 My current projects include:
   - 🧪 Data Science/Machine Learning:
