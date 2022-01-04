@@ -12,6 +12,7 @@
 
     
   - 🌐 Web Development:
+     - [SYNDEO](https://github.com/francofgp/Syndeo)
      - [ToDo with Django](https://github.com/francofgp/Todo-App-Web-Django)
      - [Blog with Django](https://github.com/francofgp/Blog-Django)
      - [Book Store with Django](https://github.com/francofgp/Book-Store-Django-Docker)
