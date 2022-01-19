@@ -31,7 +31,7 @@
 
 - 👯 I'm currently doing Ken Jee's 66 Day Challenge and learning deployment of ML models.
 -->
-- 💬 Ask me about **Machine Learning, Data Analysis, Django** and maybe some **React** but go easy on that last one!
+- 💬 Ask me about **Machine Learning, NodeJS, Django and .NET** and maybe some **React** but go easy on that last one!
 
 - 🌍 I love learning languages. I speak Spanish and English. I’m learning Russian and French. I’m interested in Chinese.
 
@@ -90,6 +90,9 @@ I am experienced in:
 
 <!-- JavaScript -->
 <img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />       
+
+<!-- NodeJS -->
+<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />     
 
 <!-- PyTorch -->
 <img align="left" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />    
