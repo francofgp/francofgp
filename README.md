@@ -2,6 +2,9 @@
 <h1 align="center">Hey <img src="Hi.gif" width="40px" />, I'm Giuliano</h1>
 <h3 align="center">I'm an information systems engineer and an aspiring Data Scientist and Web Developer </h3>
 
+[📫 Go to my portfolio](https://francofgp.github.io/)
+
+
 - 🔭 My current projects include:
   - 🧪 Data Science/Machine Learning:
     -  [Cyrillic Classifier](https://github.com/francofgp/Machine-Learning-Cyrillic-Classifier)
