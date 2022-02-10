@@ -29,7 +29,7 @@
      
   - 👓 Console:
      - [Fizz-Buzz Generator](https://github.com/francofgp/Fizz-Buzz-Generator)
-     - [wordle](https://github.com/francofgp/wordle)
+     - [Wordle](https://github.com/francofgp/wordle)
 <!--  SQL 
 - 🌱 Check out my [website](https://harsh-2420.github.io/) to learn more about me and my experience.
 
