@@ -9,7 +9,7 @@
   - 🧪 Data Science/Machine Learning:
     -  [Cyrillic Classifier](https://github.com/francofgp/Machine-Learning-Cyrillic-Classifier)
     -  [Tic-Tac-Toe AI](https://github.com/francofgp/Tic-Tac-Toe-Gym)
-    -  [Hyperparameter tunning and CIFAR-10](https://github.com/francofgp/Hyperparameter-Tuning-and-CIFAR-10/blob/main/Part1.ipynb) 
+    -  [Hyperparameter tunning and CIFAR-10](https://github.com/francofgp/Hyperparameter-Tuning-and-CIFAR-10) 
     -  [Dashboard Covid-19 Argentina](https://github.com/francofgp/streamlit-Casos-Covid-19-Argentina)
     -  [Breast Cancer Dataset Analysis](https://github.com/francofgp/Breast-Cancer-Dataset-Analysis)
 
