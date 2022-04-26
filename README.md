@@ -28,7 +28,8 @@
      - [Shutty](https://github.com/francofgp/shutty-a-shutdown-timer) 
      
   - 👓 Console:
-     - [Fizz-Buzz Generator](https://github.com/francofgp/Fizz-Buzz-Generator)
+     - [Fizz-Buzz Generator C#](https://github.com/francofgp/Fizz-Buzz-Generator)
+     - [Fizz-Buzz Generator Python](https://github.com/francofgp/fizz-buzz-generator-python)
      - [Wordle](https://github.com/francofgp/wordle)
 <!--  SQL 
 - 🌱 Check out my [website](https://harsh-2420.github.io/) to learn more about me and my experience.
