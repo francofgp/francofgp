@@ -78,7 +78,7 @@ I am experienced in:
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=francofgp&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   <br/>
   <br/>
-  <img align="center" src="https://github-readme-stats-kappa-sandy.vercel.app/api/top-langs?username=francofgp&layout=compact&show_icons=true&theme=dracula&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-kappa-sandy.vercel.app/api/top-langs?username=francofgp&layout=compact&card_width=450&show_icons=true&theme=dracula&hide_border=true" />
 </div>
   
   
