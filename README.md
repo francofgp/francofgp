@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey <img src="Hi.gif" width="40px" />, I'm Giuliano</h1>
-<h3 align="center">I'm an information systems engineer and an aspiring Machine Learning engineer and Web Developer </h3>
+<h3 align="center">I'm an information systems engineer and an aspiring Machine Learning Engineer and Web Developer </h3>
 
 [📫 Go to my portfolio](https://francofgp.github.io/)
 
