@@ -47,7 +47,7 @@ I am experienced in:
 - Data Analysis with Python, MatPlotLib, Numpy, Plotly and Streamlit.
 - Data Science and Machine Learning using  Sklearn and Pytorch
 - Deployment with  Heroku, PythonAnywhere, Puppet and Docker
-- Web development with Django, ASP.NET Core, Spring Boot and ExpressJS
+- Web development with Django, React, ASP.NET Core, Spring Boot and ExpressJS
 <p align='center'>
 
   ### Social
