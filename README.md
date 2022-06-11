@@ -3,7 +3,7 @@
 <h3 align="center">I'm an Information Systems Engineer and an aspiring Machine Learning Engineer and Web Developer </h3> 
 
 [📫 Go to my portfolio](https://francofgp.github.io/)
-
+ 
 - 🔭 My current projects include:  
   - 🧪 Data Science/Machine Learning:
     -  [Cyrillic Classifier](https://github.com/francofgp/Machine-Learning-Cyrillic-Classifier)
