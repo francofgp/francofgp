@@ -26,7 +26,7 @@
       
   - 💻 Desktop:
      - [Shutty](https://github.com/francofgp/shutty-a-shutdown-timer) 
-     
+      
   - 👓 Console:
      - [Fizz-Buzz Generator C#](https://github.com/francofgp/Fizz-Buzz-Generator)
      - [Fizz-Buzz Generator Python](https://github.com/francofgp/fizz-buzz-generator-python)
