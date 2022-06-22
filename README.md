@@ -4,7 +4,7 @@
  
 [📫 Go to my portfolio](https://francofgp.github.io/)
 
-- 🔭 My current projects include:  
+- 🔭 My current projects include:
   - 🧪 Data Science/Machine Learning:
     -  [Cyrillic Classifier](https://github.com/francofgp/Machine-Learning-Cyrillic-Classifier)
     -  [Tic-Tac-Toe AI](https://github.com/francofgp/Tic-Tac-Toe-Gym)
