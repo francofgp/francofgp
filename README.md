@@ -2,6 +2,10 @@
 <h1 align="center">Hey <img src="Hi.gif" height="50px" />, I'm Giuliano</h1>
 <h3 align="center">I'm an Information Systems Engineer and an aspiring Machine Learning Engineer and Web Developer </h3> 
  
+ 
+[📝 Go to my blog](https://www.giulianopertile.com)
+
+
 [📫 Go to my portfolio](https://francofgp.github.io/) 
 
 - 🔭 My current projects include:
