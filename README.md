@@ -43,7 +43,7 @@
 -->
 - 💬 Ask me about **Machine Learning, NodeJS, Django and .NET** and maybe some **React** but go easy on that last one!
 
-- 🌍 I love learning languages. I speak Spanish and English. I’m learning Russian and French. I’m interested in Chinese.
+- 🌍 I love learning languages. I speak Spanish and English. I’m learning Russian, German and French. I’m interested in Chinese.
 
 - ⚡ What else... ah, yes, my favorite band is either Metallica or RHCP (I just can't choose.)
 
