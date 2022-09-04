@@ -5,7 +5,7 @@
  
 [📝 Go to my blog](https://www.giulianopertile.com)
      
-   
+    
 [📫 Go to my portfolio](https://francofgp.github.io/) 
 
 - 🔭 My current projects include:
